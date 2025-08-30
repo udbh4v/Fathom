@@ -1,4 +1,4 @@
-# AURA
+# Fathom
 Project Plan & Feasibility Analysis: Project AURA (Automated Geopolitical & Route Analysis for Oil Pricing)
 
 Executive Summary
