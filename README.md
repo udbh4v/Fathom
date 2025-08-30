@@ -1,5 +1,5 @@
 # Fathom
-Project Plan & Feasibility Analysis: Project AURA (Automated Geopolitical & Route Analysis for Oil Pricing)
+Project Plan & Feasibility Analysis: Project Fathom (Automated Geopolitical & Route Analysis for Oil Pricing)
 
 Executive Summary
 Project AURA aims to create a predictive analytics platform that forecasts country-specific average oil prices and analyzes their macroeconomic impact. It will achieve this by ingesting and correlating two primary real-time data streams: global oil tanker movements (AIS data) and unstructured news data related to geopolitical events and energy markets.
